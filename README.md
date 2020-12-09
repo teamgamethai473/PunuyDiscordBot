@@ -1,6 +1,6 @@
 <h1 align="center">PunuyDiscordBot</h1>
 
-## Getting Started
+## Installing
 * Python 3.7.4 - 3.8.x
 * Lavalink
 * JDK 13
